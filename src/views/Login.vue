@@ -9,7 +9,7 @@
     >
       <div class="w-full h-100">
         <h1 class="text-xl md:text-2xl font-bold leading-tight mt-12">
-          Гэрэгэ Системс
+          Чуулган: Христ итгэлийн цахим сан
         </h1>
 
         <form class="mt-6" action="#" method="POST" @submit.prevent="userLogin">
